@@ -12,6 +12,6 @@ Cite this article
 
 Fakhri, F., Gkanatsios, I. Quantitative evaluation of flood extent detection using attention U-Net case studies from Eastern South Wales Australia in March 2021 and July 2022. Sci Rep 15, 12377 (2025). https://doi.org/10.1038/s41598-025-92734-x
 
-# Oppen Access
+# Open Access
 https://www.nature.com/articles/s41598-025-92734-x#Sec11
 
